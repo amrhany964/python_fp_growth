@@ -42,10 +42,10 @@ This approach is widely used in:
 
 ---
 👨‍💻 Authors
-Amr Hany
-Omar Ramy
-Aya Sherif
-Jana Waleed
-Mariam Sherif
-Youssef Abd-Elhady
+**Amr Hany**
+**Omar Ramy**
+**Aya Sherif**
+**Jana Waleed**
+**Mariam Sherif**
+**Youssef Abd-Elhady**
 Faculty of Computers and Information science – Ain Shams University
