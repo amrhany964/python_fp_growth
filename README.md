@@ -41,11 +41,13 @@ This approach is widely used in:
 👉 **[Open in Google Colab](https://colab.research.google.com/drive/1u1byQlP5zVVvEd3bVVmgZOPYZJCbNqCK)**
 
 ---
-👨‍💻 Authors
-**Amr Hany**
-**Omar Ramy**
-**Aya Sherif**
-**Jana Waleed**
-**Mariam Sherif**
-**Youssef Abd-Elhady**
+## 👨‍💻 Authors
+
+**Amr Hany** <br>
+**Omar Ramy** <br>
+**Aya Sherif** <br>
+**Jana Waleed** <br>
+**Mariam Sherif** <br>
+**Youssef Abd-Elhady** <br> <br>
+---
 Faculty of Computers and Information science – Ain Shams University
